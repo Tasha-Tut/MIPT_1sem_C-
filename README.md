@@ -1,2 +1,2 @@
-# MIPT_1sem_C++
-My first homeworks in MIPT.
+# MIPT_contests
+My C++ and algorythms contests in MIPT.
