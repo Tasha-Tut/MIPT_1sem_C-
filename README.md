@@ -1,2 +1,2 @@
 # MIPT_contests
-My C++ and algorythms contests in MIPT.
+My C++ and algorithms contests in MIPT.
